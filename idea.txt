@@ -1,0 +1,3 @@
+a program where you input length and width of certain amount of boxes.
+Then the program tries to find a way to put the boxes together into the smallest box as possible, with the smallest possible area
+without splitting the boxes.
