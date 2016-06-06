@@ -21,8 +21,9 @@ int main(){
 	string input;
 	cout << "input format: (width*length)*count" << endl;
 	cout << "and remember the parenteces" << endl;
-	cout << "end giving input with exit" << endl;
+	cout << "end by giving input with exit" << endl;
 	
+	vector< vector<int> > data(5, vector<int>(2)); //multidimensional vector
 	while(input != "exit"){
 		cout << "input:";
 		
@@ -46,8 +47,12 @@ int main(){
 				case 2 :
 					int count = stringint( numb.assign(input, indexes[2], input.size());
 					break;
+				data.push_back(vector<int> data )
 			}
 		}
 	}
+	
+	// computing
+	
 	
 }
